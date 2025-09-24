@@ -1,2 +1,2 @@
 # python projects
-basi python projects before college
+basic python projects before college
